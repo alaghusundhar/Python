@@ -1,0 +1,3 @@
+## IMAGE ID USED FOR TESTING
+
+ami-b63769a1
